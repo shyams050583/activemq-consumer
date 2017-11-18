@@ -1,2 +1,2 @@
 # activemq-consumer
-Sample consumer code using Spring Boot and external ActiveMQ Queue
+Sample Spring Boot application that consumes the message from external ActiveMQ Queue.
